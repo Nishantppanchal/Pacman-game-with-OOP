@@ -3,3 +3,5 @@ This is a variation of Pacman developed in python using the Object Oriented Prog
 
 Libraries used:
 * Pyglet
+
+[See it in action on Replit](https://replit.com/@NishantP13/Pacman-game-with-OOP?lite=true)
